@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-codemagic",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
